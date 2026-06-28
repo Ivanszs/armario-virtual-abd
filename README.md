@@ -1,11 +1,18 @@
 # Armario Virtual :fox_face:
 
 Trabajo práctico grupal
+
 Institución: IFTS número 18
+
 Materia: Administración de base de datos.
+
 Grupo vulpes, integrantes:
+
 Lilith Colosia
+
 Ivan Matias Szucs
+
+
 
 La cuestión de qué ponerse parece al principio un problema inocuo; sin embargo, la presentación, la autoexpresión y el acto de arreglarse pueden facilitarnos el día más de lo que parece. Este proyecto quiere ayudarte a que prepararte no sea algo en lo que tengas que pensar mucho ni te agobie.
 
